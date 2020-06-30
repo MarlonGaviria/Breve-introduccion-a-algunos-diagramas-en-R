@@ -11,4 +11,3 @@ alluvial( tit[,1:4], freq=tit$Freq,
           border = 'gray')
 
 
-
