@@ -12,3 +12,5 @@ alluvial( tit[,1:4], freq=tit$Freq,
 
 
 library(ggplot2)
+
+### una prueba de colaboracion
