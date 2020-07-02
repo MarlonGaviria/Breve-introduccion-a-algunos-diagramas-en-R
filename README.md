@@ -8,4 +8,11 @@ Este es un ejemplo breve de un grafico con la funcion alluvial():
 
 ![AlluvialPlot2](https://github.com/MarlonGaviria/Breve-introduccion-a-algunos-diagramas-en-R/blob/master/Images/plot2.png)
 
+![AlluvialPlot3](https://github.com/MarlonGaviria/Breve-introduccion-a-algunos-diagramas-en-R/blob/master/Images/plot3.png)
+
+![AlluvialPlot4](https://github.com/MarlonGaviria/Breve-introduccion-a-algunos-diagramas-en-R/blob/master/Images/plot4.png)
+
+
+
+
 
